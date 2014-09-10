@@ -1,6 +1,6 @@
 <package>
   <name>pr2_dashboard</name>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <description>pr2_dashboard is a GUI for debugging and controlling low-level state of the PR2.  It shows things like battery status and breaker states, as well as integrating tools like rxconsole and robot_monitor.</description>
   <maintainer email="dash@clearpathrobotics.com">Devon AshDash</maintainer>
 
